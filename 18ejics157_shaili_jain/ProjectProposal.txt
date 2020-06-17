@@ -1,0 +1,2 @@
+will try to create the dashboard for covid-19 for india
+will also perform the EDA for campus placement dataset
