@@ -1,0 +1,2 @@
+https://covid-19-india-dashboard.herokuapp.com/
+link for the dash app
